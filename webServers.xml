@@ -1,0 +1,38 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="3f885a74-c325-48e2-a34a-03d138663b6d" name="b14_15894996" url="http://ftp.byethost14.com">
+        <fileTransfer host="ftp.byethost14.com" port="21" rootFolder="/marijanafilipovic.byethost14.com">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="0c44f73a-40f8-4c41-a5ee-983d4515fd58" name="b14_15894996" url="http://185.27.134.11">
+        <fileTransfer host="185.27.134.11" port="21" rootFolder="/home/vol15_4/byethost14.com/b14_15894996">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="642827fc-1c59-40cd-9dbd-7e003d47f60c" name="b14_15894996" url="http://185.27.134.11">
+        <fileTransfer host="185.27.134.11" port="21" rootFolder="/home/vol15_4/byethost14.com/b14_15894996/sportotekax.byethost14.com">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="e64bbd45-4743-4b4f-b7a5-110aad3dca41" name="b14_15894996" url="http://185.27.134.11">
+        <fileTransfer host="185.27.134.11" port="21" rootFolder="/sportotekax.byethost14.com/htdocs">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
