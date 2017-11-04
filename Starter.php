@@ -15,7 +15,7 @@ class Starter
     public $app_choice = [];
     public  $appCase=' ';
     public function __construct(){
-        $appCase='http://r.viselio.com/api/v1/testTrigger';
+        $appCase='http://*****.com/api/v1/testTrigger';
         $appV  = new callApp;
         $app = $appV->register($appCase);
         if($app  == 0 )
