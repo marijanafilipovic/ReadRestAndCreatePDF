@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="Readme" type="PLAIN_TEXT" />
       <mapping pattern="belex" type="XML" />
     </extensionMap>
   </component>
