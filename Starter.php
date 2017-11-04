@@ -22,7 +22,7 @@ class Starter
         {
            $firstCase = new primeCase();
            $firstCase::register();
-              echo "Prvi slucaj uzuriranja LogFile.txt koji se nalazi u root-u app.";
+              echo "Prvi slucaj azuriranja LogFile.txt.";
         }elseif($app == 1)
         {
             include_once 'table.php';
